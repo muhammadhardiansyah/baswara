@@ -1165,7 +1165,8 @@ input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-sea
 .header_logo .logo_picture {
     width: 35px;
     height: 39px;
-    margin-right: 5px
+    margin-right: 5px;
+    margin-top: -15px;
 }
 
 .header_logo .text {
@@ -2310,8 +2311,8 @@ main>.underlay {
 }
 
 .banner .underlay {
-    background: -o-linear-gradient(298.11deg,rgba(106,17,203,.83) 6.97%,rgba(37,117,252,.83) 84.71%);
-    background: linear-gradient(151.89deg,rgba(106,17,203,.83) 6.97%,rgba(37,117,252,.83) 84.71%);
+    background: -o-linear-gradient(298.11deg,#fd7e14 6.97%,#ffc107 84.71%);
+    background: linear-gradient(151.89deg,#fd7e14 6.97%,#ffc107 84.71%);
     position: absolute;
     width: 100%;
     height: 100%;
@@ -2390,6 +2391,7 @@ main>.underlay {
         height: 700px;
         display: block;
         width: 50vw;
+        padding-right: 12%;
         border-radius: 100% 0/83% 100% 0 17%;
         overflow: hidden;
         -webkit-backface-visibility: hidden;

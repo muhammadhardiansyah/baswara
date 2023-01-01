@@ -247,7 +247,8 @@
 }
 
 .icon-check:before {
-    content: "\e92f"
+    content: "\e92f";
+    color:lightgreen;
 }
 
 .icon-youtube-play:before {
