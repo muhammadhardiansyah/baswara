@@ -114,7 +114,7 @@ export function drawSingUpPopop() {
                     The intensive course is now open, which starts on January 8. 
                     You will receive detailed information on admission by mail immediately after registration
                 </p>
-                <h5 class="subtitle">30 day Free Trial for Lessons and Library</h5>
+                <h5 class="subtitle">31 day Free Trial for Lessons and Library</h5>
                 <p class="text">our consultant will contact you to clarify further details</p>
                 <form class="registration_form d-flex flex-column align-items-center" action="#" method="post"
                   data-type="registration">

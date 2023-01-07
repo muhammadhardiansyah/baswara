@@ -1540,8 +1540,8 @@ input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-sea
     width: 100%;
     height: 100%;
     background-blend-mode: normal,multiply,normal;
-    background: -o-linear-gradient(left,rgba(106,17,203,.74) 7.15%,rgba(37,117,252,.74) 97.85%),-o-linear-gradient(351.8deg,#6a11cb 5.04%,#6a11cb 35.6%,#2575fc 67.82%),url(../img/placeholder.jpg) center/cover no-repeat;
-    background: linear-gradient(90deg,rgba(106,17,203,.74) 7.15%,rgba(37,117,252,.74) 97.85%),linear-gradient(98.2deg,#6a11cb 5.04%,#6a11cb 35.6%,#2575fc 67.82%),url(../img/placeholder.jpg) center/cover no-repeat
+    background: -o-linear-gradient(left,#fd7e14 7.15%,#e2be20 97.85%),-o-linear-gradient(351.8deg,#fd7e14 5.04%,#fd7e14 35.6%,#e2be20 67.82%),url(../img/placeholder.jpg) center/cover no-repeat;
+    background: linear-gradient(90deg,#fd7e14 7.15%,#e2be20 97.85%),linear-gradient(98.2deg,#fd7e14 5.04%,#fd7e14 35.6%,#e2be20 67.82%),url(../img/placeholder.jpg) center/cover no-repeat
 }
 
 .hero_icon {
@@ -1588,7 +1588,7 @@ input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-sea
 }
 
 .hero_info-block_title {
-    color: #f9d423;
+    color: white;
     font-weight: 700;
     font-size: 22px;
     margin-bottom: 10px

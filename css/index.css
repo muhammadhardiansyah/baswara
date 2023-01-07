@@ -332,6 +332,7 @@ main>.underlay:after {
     box-shadow: 0 2px 4px rgba(43,53,67,0)
 }
 
+
 .btn--gradient .text {
     position: relative;
     z-index: 2;
@@ -2419,8 +2420,8 @@ main>.underlay {
 }
 
 .footer {
-    background: -o-linear-gradient(bottom,rgba(255,255,255,.9),rgba(255,255,255,.9)),-o-linear-gradient(322.64deg,#fd7e14 31.85%,#ffc107 108.53%);
-    background: linear-gradient(0deg,rgba(255,255,255,.9),rgba(255,255,255,.9)),linear-gradient(127.36deg,#fd7e14 31.85%,#ffc107 108.53%);
+    background: -o-linear-gradient(bottom,rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9 ),-o-linear-gradient(322.64deg,rgba(255, 255, 255, 0.9) 31.85%,rgba(255, 255, 255, 0.9) 108.53%));
+    background: linear-gradient(0deg,rgba(255, 255, 255, 0.9) 6.97%,rgba(255, 255, 255, 0.9) ),linear-gradient(127.36deg,rgba(255, 255, 255, 0.9) 31.85%,rgba(255, 255, 255, 0.9) 108.53%);
     padding: 60px 0 0;
     position: relative
 }
