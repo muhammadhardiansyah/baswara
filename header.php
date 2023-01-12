@@ -37,7 +37,7 @@
                 </ul>
                 <div class="promobar_main d-flex align-items-center">
                     <p class="promobar_main-text">Mari Belajar Bersama Kami! <span class="hide">Daftarkan Dirimu Sekarang Juga!</span></p>
-                    <a class="btn btn--yellow" href="#" data-bs-toggle="modal" data-bs-target="#registration">
+                    <a class="btn btn--yellow" href="register.php">
                         <span>Sign Up</span>
                     </a>
                 </div>
@@ -105,11 +105,11 @@
                         <li class="header_nav-list_item">
                             <a class="nav-item" href="contacts.php" data-page="about">Contact Us</a>
                         </li>
-                        <li class="header_nav-list_item">
+                        <!-- <li class="header_nav-list_item">
                             <button class="btn btn--gradient" type="submit" data-bs-toggle="modal" data-bs-target="#login">
                                 <span class="text">LOGIN</span>
                             </button>
-                        </li>
+                        </li> -->
                         <!-- <li class="header_nav-list_item">
                             <a class="nav-item" href="pricing.html" data-page="pricing">Prices</a>
                         </li> -->

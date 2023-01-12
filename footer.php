@@ -31,7 +31,7 @@
                     <div class="col-sm-12 col-md-6 d-flex align-items-center">
                         <div class="col">
                             <div class="row">
-                                <form class="registration_form" action="#" method="post" data-type="registration">
+                                <form class="registration_form" action="#" method="post" data-type="login">
                                     <!-- <input class="field required" type="text" data-type="email" placeholder="Email" /> -->
                                     <input class="field required" type="text" placeholder="Username/Email" />
                                     <input class="field required" type="password" placeholder="Password" />
@@ -39,7 +39,7 @@
                             </div>
                             <div class="row mt-3 hero_content-action flex-wrap justify-content-center">
                                 <!-- <div class="col-sm-6 d-flex justify-content-end"> -->
-                                    <button class="btn btn--gradient" type="submit">
+                                    <button class="btn btn--gradient" type="submit" onclick="">
                                         <span class="text">Masuk</span>
                                     </button>
                                 <!-- </div> -->
