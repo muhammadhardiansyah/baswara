@@ -18,7 +18,7 @@
     <body style="background-color: #e9e7ea;">
         <div class="container d-flex align-items-center" style="height: 100vh;" >
             <div class="row justify-content-center">
-            <div class="col-md-8 px-4 py-4" style="background-color: #FFFFFF;">
+            <div class="col-md-8 px-4 py-4 rounded" style="background-color: #FFFFFF;">
                 <section class="registration" id="price">
                     <div class="underlay"></div>
                     <div class="registration_content container d-flex flex-column align-items-center">
