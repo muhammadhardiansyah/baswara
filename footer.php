@@ -263,3 +263,4 @@
         <script src="js/courses.min.js"></script>
     </body>
 </html>
+
